@@ -8,16 +8,16 @@ The <html> element is the root element of an HTML page
 The <head> element contains meta information about the HTML page
 The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)
 The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
-<!--
-The <h1> element defines a large heading
-The <p> element defines a paragraph
-The <!DOCTYPE> Declaration
-The <!DOCTYPE> declaration represents the document type, and helps browsers to display web pages correctly.
+
+The h1 element defines a large heading.
+The p element defines a paragraph.
+The DOCTYPE Declaration.
+The DOCTYPE declaration represents the document type, and helps browsers to display web pages correctly.
 
 It must only appear once, at the top of the page (before any HTML tags).
 
-The <!DOCTYPE> declaration is not case sensitive.
+The DOCTYPE declaration is not case sensitive.
 
-The <!DOCTYPE> declaration for HTML5 is:
-<!DOCTYPE html>
--->
+The DOCTYPE declaration for HTML5 is:
+
+<img width="633" alt="Screenshot 2024-03-07 173130" src="https://github.com/GANU1498/HTML/assets/143490640/7613dba6-2a13-4c32-837e-79e4ba2955e9">
