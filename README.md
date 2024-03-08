@@ -22,6 +22,8 @@ The DOCTYPE declaration is not case sensitive.
 The DOCTYPE declaration for HTML5 is:
 
 <img width="633" alt="Screenshot 2024-03-07 173130" src="https://github.com/GANU1498/HTML/assets/143490640/7613dba6-2a13-4c32-837e-79e4ba2955e9">
+
+
 HTML is Not Case Sensitive
 HTML tags are not case sensitive: <P> means the same as <p>.
 There is another important attribute of img tag that is'alt'.
@@ -35,6 +37,9 @@ Attributes are always specified in the start tag.
 Attributes usually come in name/value pairs like: name="value".
 The src Attribute---
 The <img> tag is used to embed an image in an HTML page. The src attribute specifies the path to the image to be displayed:
+
 <img width="341" alt="Screenshot 2024-03-08 171130" src="https://github.com/GANU1498/HTML/assets/143490640/17b43381-6f4c-4522-94de-6037c5ed2ab8">
 In above image there are 3 Attributes src, width, height.
+
+
 <img width="361" alt="Screenshot 2024-03-08 171521" src="https://github.com/GANU1498/HTML/assets/143490640/a397e81b-13b5-4b24-89fc-2203afd56017">
