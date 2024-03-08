@@ -36,9 +36,11 @@ Attributes provide additional information about elements.
 Attributes are always specified in the start tag.
 Attributes usually come in name/value pairs like: name="value".
 The src Attribute---
-The <img> tag is used to embed an image in an HTML page. The src attribute specifies the path to the image to be displayed:
+the <img> tag is used to embed an image in an HTML page. The src attribute specifies the path to the image to be displayed:
 
 <img width="341" alt="Screenshot 2024-03-08 171130" src="https://github.com/GANU1498/HTML/assets/143490640/17b43381-6f4c-4522-94de-6037c5ed2ab8">
+
+
 In above image there are 3 Attributes src, width, height.
 
 
