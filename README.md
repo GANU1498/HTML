@@ -22,3 +22,7 @@ The DOCTYPE declaration is not case sensitive.
 The DOCTYPE declaration for HTML5 is:
 
 <img width="633" alt="Screenshot 2024-03-07 173130" src="https://github.com/GANU1498/HTML/assets/143490640/7613dba6-2a13-4c32-837e-79e4ba2955e9">
+HTML is Not Case Sensitive
+HTML tags are not case sensitive: <P> means the same as <p>.
+
+The HTML standard does not require lowercase tags, but W3C recommends lowercase in HTML, and demands lowercase for stricter document types like XHTML.
