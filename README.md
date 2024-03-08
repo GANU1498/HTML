@@ -45,3 +45,6 @@ In above image there are 3 Attributes src, width, height.
 
 
 <img width="361" alt="Screenshot 2024-03-08 171521" src="https://github.com/GANU1498/HTML/assets/143490640/a397e81b-13b5-4b24-89fc-2203afd56017">
+
+
+The required alt attribute for the <img> tag specifies an alternate text for an image, if the image for some reason cannot be displayed. This can be due to a slow connection, or an error in the src attribute, or if the user uses a screen reader
