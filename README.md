@@ -231,3 +231,48 @@ Notice that there is an exclamation point (!) in the start tag, but not in the e
 
 <!-- Remember to add more information here -->
 ```
+
+### HTML Paragraphs
+
+The HTML <p> element defines a paragraph.
+
+A paragraph always starts on a new line, and browsers automatically add some white space (a margin) before and after a paragraph.
+
+```
+<p>This is a paragraph.</p>
+<p>This is another paragraph.</p>
+```
+
+### HTML Formatting Elements
+
+Formatting elements were designed to display special types of text:
+```
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
+```
+### HTML <address> for Contact Information
+
+The HTML <address> tag defines the contact information for the author/owner of a document or an article.
+
+The contact information can be an email address, URL, physical address, phone number, social media handle, etc.
+
+The text in the <address> element usually renders in italic, and browsers will always add a line break before and after the <address> element.
+
+```
+<address>
+Written by John Doe.<br>
+Visit us at:<br>
+Example.com<br>
+Box 564, Disneyland<br>
+USA
+</address>
+```
+
